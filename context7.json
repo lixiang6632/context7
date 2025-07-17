@@ -53,5 +53,11 @@
     "stars": 0,
     "trustScore": 6.2,
     "privateRepo": false
+  },
+  "previousVersions": [
+  {
+    "tag": "v1.0",
+    "title": "version 1.0"
   }
+]
 }
